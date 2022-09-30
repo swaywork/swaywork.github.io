@@ -20,7 +20,7 @@ Swayworks is an easy to-use website for playing games in an embed. old-school ga
 
 ### Games
 
-> Pacman
+> [Pacman](./pacman.html)
 >
 >
 
