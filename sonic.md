@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bomberman
+title: Sonic
 description: By swaywork
 ---
 
