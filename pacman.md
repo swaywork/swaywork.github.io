@@ -8,7 +8,6 @@ description: This is just another page
 
 _yay_
 
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Maintenance - Moota.co</title>
