@@ -4,16 +4,8 @@ title: Pacman
 description: Play pacman
 ---
 
-## Welcome to another page
-
 _yay_
 
-<div id="shim">shim for font face</div>
-
-<h1>HTML5 Pacman</h1>
-
-<p><a href="https://github.com/daleharvey/pacman" target="_blank">Swaywork</a></p>
-
-<div id="pacman"></div>
+<iframe src="https://www.google.com/logos/2010/pacman10-i.html" title="pacman" width=”750” height=”500”></iframe>
 
 [back](./)
