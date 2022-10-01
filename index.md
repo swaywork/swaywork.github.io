@@ -21,4 +21,5 @@ Swayworks is an easy to-use website for playing games in an embed. old-school ga
 > [Bomberman](./bomberman.html)
 >
 > [Sonic](./sonic.html)
->
+> 
+> [1v1.lol](./1v1.lol.html)
