@@ -3,8 +3,7 @@ layout: default
 ---
 
 More games are comming to the web-server soon, this is just a pre-alpha.
-
-# [Link to another page](./another-page.html).
+[comment]: <> ([Link to another page](./another-page.html).)
 
 There may be alot of glitches since this website isnt fully out yet.
 
@@ -85,7 +84,7 @@ Swayworks is an easy to-use website for playing games in an embed. old-school ga
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+#![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
